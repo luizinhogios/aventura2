@@ -1,1 +1,16 @@
-htm
+body {
+background-color: #e678df;
+color: white;
+font-family: "Bai Jamjuree", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+button {
+background-color: #e6430d;
+color: white;
+font-family: "Bai Jamjuree", sans-serif;
+}
